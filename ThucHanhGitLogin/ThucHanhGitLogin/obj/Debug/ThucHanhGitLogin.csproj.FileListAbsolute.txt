@@ -1,0 +1,11 @@
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\bin\Debug\ThucHanhGitLogin.exe.config
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\bin\Debug\ThucHanhGitLogin.exe
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\bin\Debug\ThucHanhGitLogin.pdb
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\obj\Debug\ThucHanhGitLogin.csprojAssemblyReference.cache
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\obj\Debug\ThucHanhGitLogin.Form1.resources
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\obj\Debug\ThucHanhGitLogin.Form2.resources
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\obj\Debug\ThucHanhGitLogin.Properties.Resources.resources
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\obj\Debug\ThucHanhGitLogin.csproj.GenerateResource.cache
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\obj\Debug\ThucHanhGitLogin.csproj.CoreCompileInputs.cache
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\obj\Debug\ThucHanhGitLogin.exe
+D:\BaiTap\ThucHanhGitLogin\ThucHanhGitLogin\obj\Debug\ThucHanhGitLogin.pdb

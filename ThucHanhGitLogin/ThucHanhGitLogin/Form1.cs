@@ -21,5 +21,18 @@ namespace ThucHanhGitLogin
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if (txtUser.Text == "admin" && txtPass.Text == "admin")
+            {
+                this.Hide();
+                Form2 f = new Form2();
+                    f.Show();
+            } else
+            {
+                MessageBox.Show("Sai ten dang nhap hoac mat khau", "Loi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }
